@@ -11,10 +11,11 @@ export default function MediaCard() {
     <Card sx={{ maxWidth: 345, margin: 10 }}>
       <CardMedia
         sx={{ height: 140 }}
-        image="contemplative-reptile.jpg"
+        image="profile1.png"
         title="green iguana"
       />
       <CardContent>
+        
         <Typography gutterBottom variant="h5" component="div">
           Lizard
         </Typography>

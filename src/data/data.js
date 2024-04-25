@@ -65,7 +65,7 @@ const data = [{
   "employmentType": "Full-Time",
   "skills": ["Network Security", "Hardware Troubleshooting", "Customer Service"],
   "hoursLoggedThisWeek": 40,
-  "onLeave": false
+  "onLeave": true
   }]
 
 export default data;
